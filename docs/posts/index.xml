@@ -18,5 +18,18 @@ En este post hablaré sobre lo que es para mi la cultura de un profesional de de
  Comunicación Flexibilidad Ética Simplicidad Paciencia Auto-aprendizaje Creatividad Comunidad  Creo yo que todos son muy importantes para un buen desarrollador de software.</description>
     </item>
     
+    <item>
+      <title>Mi ruta de aprendizaje con LaunchX</title>
+      <link>https://ileanaap.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ileanaap.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola! Este post es para compartir un poco sobre aquello que se ha quedado en mi desde el inicio de esta travesía hace unas 6 semanas.
+En el OnBoarding nos enseñaron cosas super importantes sobre Git y Github como por ejemplo: crear una cuenta, verificarla, ingresar a la organización. Qué es Github, sobre:
+Repositorios:
+ Archivos Historial de cambios Ramificación  Colaboración:
+ Integrar cambios Pull requests  Colaborar en proyectos:</description>
+    </item>
+    
   </channel>
 </rss>
