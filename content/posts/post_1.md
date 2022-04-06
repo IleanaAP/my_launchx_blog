@@ -42,12 +42,12 @@ Para **Frontend**...
 Vimos muchísimos temas y aunque no pude terminarlo, planeo y mi meta es terminarlo cueste lo que me cueste :)
 
 HTML
-En esta fase aprendí a maquetar mis proyectos de siiios web en donde realicé el proyecto de una pastelería, incluyendo el menú, el formulario de pedido y tambien construyendo el lado del pastelero donde puede ver su inventario de productos y la lista de pedidos realizados. Fue muy divertido hacerlo.
+- En esta fase aprendí a maquetar mis proyectos de siiios web en donde realicé el proyecto de una pastelería, incluyendo el menú, el formulario de pedido y tambien construyendo el lado del pastelero donde puede ver su inventario de productos y la lista de pedidos realizados. Fue muy divertido hacerlo.
 
 CSS
-Aquí desarrollé una imagen sobre un sitio web sobre las vacunas de Covid-19. La meta era recrear el sitio con HTML y CSS lo más parecido posible. Me costó trabajo el ubicar divs donde correspondian e incluso algunas imágenes pero la experiencia fue genial y me sirvió muchísimo de práctica.
+- Aquí desarrollé una imagen sobre un sitio web sobre las vacunas de Covid-19. La meta era recrear el sitio con HTML y CSS lo más parecido posible. Me costó trabajo el ubicar divs donde correspondian e incluso algunas imágenes pero la experiencia fue genial y me sirvió muchísimo de práctica.
 
 JAVASCRIPT/JS
-Con JS vimos como hacer un pokedex básico con nuestro MC Rodrigo y la verdad que este fue mi primer acercamiento serio con las APIs (serio en el sentido en el que puse atención y vi todo el proceso hasta implementarlo yo misma). Me fascino ver todo aquello que se puede hacer cone stas herramientas y a la vez muy divertido. Nuestra actividad fue continuar con ese pokedex pero hacerlo un poco más complejo con información adicional de los Pokemones junto con un diseño entretenido.
+- Con JS vimos como hacer un pokedex básico con nuestro MC Rodrigo y la verdad que este fue mi primer acercamiento serio con las APIs (serio en el sentido en el que puse atención y vi todo el proceso hasta implementarlo yo misma). Me fascino ver todo aquello que se puede hacer cone stas herramientas y a la vez muy divertido. Nuestra actividad fue continuar con ese pokedex pero hacerlo un poco más complejo con información adicional de los Pokemones junto con un diseño entretenido.
 
 Pendientes: VUEJS, VUEX, ANGULAR, AZURE.
